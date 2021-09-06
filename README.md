@@ -1,4 +1,5 @@
 # Methods-for-spectral-calibration
+Download all files in one folder.
 Open RunProgram.mlx to start test.
 
 Reference:
